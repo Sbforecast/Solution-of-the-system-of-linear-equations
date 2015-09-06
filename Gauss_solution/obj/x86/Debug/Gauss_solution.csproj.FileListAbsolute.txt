@@ -1,0 +1,5 @@
+D:\Users\Allusers\Документи\VS\Gauss_solution\Gauss_solution\bin\Debug\Gauss_solution.exe
+D:\Users\Allusers\Документи\VS\Gauss_solution\Gauss_solution\bin\Debug\Gauss_solution.pdb
+D:\Users\Allusers\Документи\VS\Gauss_solution\Gauss_solution\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Users\Allusers\Документи\VS\Gauss_solution\Gauss_solution\obj\x86\Debug\Gauss_solution.exe
+D:\Users\Allusers\Документи\VS\Gauss_solution\Gauss_solution\obj\x86\Debug\Gauss_solution.pdb
